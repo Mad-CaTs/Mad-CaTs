@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=&weight=500&duration=6000&pause=1000&color=B86F24&center=true&width=435&lines=-Welcome+to+my+github+profile-;Software+Develop+Student;Exp+in+Front-End+and+JS+Frameworks;Always+love+to+learn+new+tech+stuff%3C3" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=&weight=500&duration=6000&pause=1000&color=B86F24&center=true&width=435&lines=-Welcome+to+my+github+profile-;Software+Develop+Student;Front-End+and+Back-End+plus+Frameworks;Always+love+to+learn+new+tech+stuff%3C3" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 <h2 align="left" style="text-decoration: none;">👨🏻‍💻 About me</h2>  
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 
-Hey there! It's Markus. A software development student with comprehensive Front-End experience, and a solid ability to lead projects and teams. My training and experience have allowed me to work with a variety of technological platforms and tools, ranging from the design of interactive web pages to the architecture of complex systems.
+Hey there! It's Markus. A software development student with comprehensive Front-End and Back-End knowledge, and a solid ability to lead projects and teams. My training and experience have allowed me to work with a variety of technological platforms and tools, ranging from the design of interactive web pages to the architecture of complex systems.
 My focus is on developing technological solutions that add value, combining technical and analytical skills.
 <br>
 - Here you'd can find some of my personal proyects that i did on my free time and maybe it can be useful to you. Ask for any question on my social media below and i'm open to hear any suggestion. Thanks for stopping by ✌️.
@@ -33,7 +33,7 @@ My focus is on developing technological solutions that add value, combining tech
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="50"/></a>  
+<a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="50"/></a>  
 <a href="https://dotnet.microsoft.com/es-es/learn/dotnet/what-is-dotnet"> <img src="https://icongr.am/devicon/dot-net-plain-wordmark.svg?size=50&color=600aff" alt="mysql" width="50" height="50"/></a>
 <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" height="50"/></a>
 <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="50" height="50"/></a>
