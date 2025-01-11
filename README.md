@@ -21,23 +21,28 @@
 <h2 align="left" style="text-decoration: none;">👨🏻‍💻 About me</h2>  
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 
-Hey there! It's Markus. A software development student with comprehensive Front-End and Back-End knowledge, and a solid ability to lead projects and teams. My training and experience have allowed me to work with a variety of technological platforms and tools, ranging from the design of interactive web pages to the architecture of complex systems.
-My focus is on developing technological solutions that add value, combining technical and analytical skills.
+Hi! It's Markus. FullStack Software Engineering student focused on the Back-End area. My experience includes the creation of technological solutions to leading projects under agile methodologies, prioritizing delivery to the client.
+My focus is on technological innovation and collaborating on projects in any sector that use technology as a transformation tool.
 <br>
 - Here you'd can find some of my personal proyects that i did on my free time and maybe it can be useful to you. Ask for any question on my social media below and i'm open to hear any suggestion. Thanks for stopping by ✌️.
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--Skill set-->
-<h2>🛠 Skill set  <img src="https://camo.githubusercontent.com/94b33bd991f6c3135af747bdf27361be43e797c0fce678b62ed5aef57e9d8bd7/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" data-canonical-src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" style="width: 25px; data-target="animated-image.originalImage"></h2>
+<h2>🛠 Skill set</h2>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mad-CaTs&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693"/></p>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/></a>
 <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="50"/></a>  
+<a href="https://spring.io/projects/spring-boot"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="50" height="50"/></a>
 <a href="https://dotnet.microsoft.com/es-es/learn/dotnet/what-is-dotnet"> <img src="https://icongr.am/devicon/dot-net-plain-wordmark.svg?size=50&color=600aff" alt="mysql" width="50" height="50"/></a>
 <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" height="50"/></a>
+<a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/></a>
+<a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" /></a>
+<a href="https://www.mongodb.com/es"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" width="50" height="50"/></a>                  
 <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="50" height="50"/></a>
+
           
 <br><br><br>
 
@@ -53,5 +58,5 @@ My focus is on developing technological solutions that add value, combining tech
 
 
 ------
-Last Edited on: 05/09/2024
+Last Edited on: 11/01/2025
 
