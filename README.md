@@ -1,4 +1,3 @@
-![Banner Markus Perez](Screenshot_3.jpg)
 <!--Title-->
 <h1 align="center"><b>Hey There! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
