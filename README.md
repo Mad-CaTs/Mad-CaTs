@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Age-18-orange">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Age-19-orange">
     <img alt="Static Badge" src="https://img.shields.io/badge/Focus-Software_Development-orange">
     <img alt="Static Badge" src="https://img.shields.io/badge/Lives-Per%C3%BA-orange">
     <img alt="Static Badge" src="https://img.shields.io/badge/Languages-Spanish_%26_English-orange">
